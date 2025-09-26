@@ -1,0 +1,10 @@
+{
+  "name": "flashloan-arbitrage-tool",
+  "version": "1.0.0",
+  "dependencies": {
+    "ethers": "^6.0.0",
+    "@aave/protocol-v2": "^1.0.1",
+    "@openzeppelin/contracts": "^4.8.0",
+    "axios": "^1.0.0"
+  }
+}
